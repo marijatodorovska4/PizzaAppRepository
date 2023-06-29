@@ -1,0 +1,73 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = SEDC.PizzaApp.Refactored
+build_property.RootNamespace = SEDC.PizzaApp.Refactored
+build_property.ProjectDir = C:\Users\PC Lenovo\Downloads\SEDC.PizzaApp.Refactored (2)\SEDC.PizzaApp.Refactored\SEDC.PizzaApp.Refactored\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\PC Lenovo\Downloads\SEDC.PizzaApp.Refactored (2)\SEDC.PizzaApp.Refactored\SEDC.PizzaApp.Refactored
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/PC Lenovo/Downloads/SEDC.PizzaApp.Refactored (2)/SEDC.PizzaApp.Refactored/SEDC.PizzaApp.Refactored/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/PC Lenovo/Downloads/SEDC.PizzaApp.Refactored (2)/SEDC.PizzaApp.Refactored/SEDC.PizzaApp.Refactored/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/PC Lenovo/Downloads/SEDC.PizzaApp.Refactored (2)/SEDC.PizzaApp.Refactored/SEDC.PizzaApp.Refactored/Views/Order/AddPizza.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3JkZXJcQWRkUGl6emEuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/PC Lenovo/Downloads/SEDC.PizzaApp.Refactored (2)/SEDC.PizzaApp.Refactored/SEDC.PizzaApp.Refactored/Views/Order/CreateOrder.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3JkZXJcQ3JlYXRlT3JkZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/PC Lenovo/Downloads/SEDC.PizzaApp.Refactored (2)/SEDC.PizzaApp.Refactored/SEDC.PizzaApp.Refactored/Views/Order/DeleteOrder.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3JkZXJcRGVsZXRlT3JkZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/PC Lenovo/Downloads/SEDC.PizzaApp.Refactored (2)/SEDC.PizzaApp.Refactored/SEDC.PizzaApp.Refactored/Views/Order/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3JkZXJcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/PC Lenovo/Downloads/SEDC.PizzaApp.Refactored (2)/SEDC.PizzaApp.Refactored/SEDC.PizzaApp.Refactored/Views/Order/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3JkZXJcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/PC Lenovo/Downloads/SEDC.PizzaApp.Refactored (2)/SEDC.PizzaApp.Refactored/SEDC.PizzaApp.Refactored/Views/Shared/BadRequest.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEJhZFJlcXVlc3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/PC Lenovo/Downloads/SEDC.PizzaApp.Refactored (2)/SEDC.PizzaApp.Refactored/SEDC.PizzaApp.Refactored/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/PC Lenovo/Downloads/SEDC.PizzaApp.Refactored (2)/SEDC.PizzaApp.Refactored/SEDC.PizzaApp.Refactored/Views/Shared/GeneralError.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEdlbmVyYWxFcnJvci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/PC Lenovo/Downloads/SEDC.PizzaApp.Refactored (2)/SEDC.PizzaApp.Refactored/SEDC.PizzaApp.Refactored/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/PC Lenovo/Downloads/SEDC.PizzaApp.Refactored (2)/SEDC.PizzaApp.Refactored/SEDC.PizzaApp.Refactored/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/PC Lenovo/Downloads/SEDC.PizzaApp.Refactored (2)/SEDC.PizzaApp.Refactored/SEDC.PizzaApp.Refactored/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/PC Lenovo/Downloads/SEDC.PizzaApp.Refactored (2)/SEDC.PizzaApp.Refactored/SEDC.PizzaApp.Refactored/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-uxkvp6np3h

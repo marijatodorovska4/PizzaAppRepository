@@ -1,0 +1,113 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0": {
+      "SEDC.PizzaApp.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/SEDC.PizzaApp.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/SEDC.PizzaApp.Domain.dll": {}
+        }
+      },
+      "SEDC.PizzaApp.ViewModels/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "SEDC.PizzaApp.Domain": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/SEDC.PizzaApp.ViewModels.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/SEDC.PizzaApp.ViewModels.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SEDC.PizzaApp.Domain/1.0.0": {
+      "type": "project",
+      "path": "../SEDC.PizzaApp.Domain/SEDC.PizzaApp.Domain.csproj",
+      "msbuildProject": "../SEDC.PizzaApp.Domain/SEDC.PizzaApp.Domain.csproj"
+    },
+    "SEDC.PizzaApp.ViewModels/1.0.0": {
+      "type": "project",
+      "path": "../SEDC.PizzaApp.ViewModels/SEDC.PizzaApp.ViewModels.csproj",
+      "msbuildProject": "../SEDC.PizzaApp.ViewModels/SEDC.PizzaApp.ViewModels.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0": [
+      "SEDC.PizzaApp.Domain >= 1.0.0",
+      "SEDC.PizzaApp.ViewModels >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\PC Lenovo\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\PC Lenovo\\Downloads\\SEDC.PizzaApp.Refactored (2)\\SEDC.PizzaApp.Refactored\\SEDC.PizzaApp.Mappers\\SEDC.PizzaApp.Mappers.csproj",
+      "projectName": "SEDC.PizzaApp.Mappers",
+      "projectPath": "C:\\Users\\PC Lenovo\\Downloads\\SEDC.PizzaApp.Refactored (2)\\SEDC.PizzaApp.Refactored\\SEDC.PizzaApp.Mappers\\SEDC.PizzaApp.Mappers.csproj",
+      "packagesPath": "C:\\Users\\PC Lenovo\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\PC Lenovo\\Downloads\\SEDC.PizzaApp.Refactored (2)\\SEDC.PizzaApp.Refactored\\SEDC.PizzaApp.Mappers\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\PC Lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "projectReferences": {
+            "C:\\Users\\PC Lenovo\\Downloads\\SEDC.PizzaApp.Refactored (2)\\SEDC.PizzaApp.Refactored\\SEDC.PizzaApp.Domain\\SEDC.PizzaApp.Domain.csproj": {
+              "projectPath": "C:\\Users\\PC Lenovo\\Downloads\\SEDC.PizzaApp.Refactored (2)\\SEDC.PizzaApp.Refactored\\SEDC.PizzaApp.Domain\\SEDC.PizzaApp.Domain.csproj"
+            },
+            "C:\\Users\\PC Lenovo\\Downloads\\SEDC.PizzaApp.Refactored (2)\\SEDC.PizzaApp.Refactored\\SEDC.PizzaApp.ViewModels\\SEDC.PizzaApp.ViewModels.csproj": {
+              "projectPath": "C:\\Users\\PC Lenovo\\Downloads\\SEDC.PizzaApp.Refactored (2)\\SEDC.PizzaApp.Refactored\\SEDC.PizzaApp.ViewModels\\SEDC.PizzaApp.ViewModels.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0": {
+        "targetAlias": "net6.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.200\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
